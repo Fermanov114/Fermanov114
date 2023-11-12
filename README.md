@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fermanov114
 - 👀 I’m interested in C#,unity,C,C++,python
 - 🌱 I’m currently learning pytorch
-- 💞️ I’m collaborating with tianshu studio of Shenzhen
+- 💞️ I’m collaborating with xuanhai studio
 - 📫 How to reach me: Personal email: liangchen114@outlook.com QQ:3315325125 Wechat:liangchen643A
 
 <!---
